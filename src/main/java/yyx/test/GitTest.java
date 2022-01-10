@@ -10,5 +10,6 @@ public class GitTest {
         System.out.println("master1");
         System.out.println("push");
         System.out.println("pull");
+        System.out.println("项目经理提交代码");
     }
 }
